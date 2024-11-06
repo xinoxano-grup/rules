@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en"> 
 <head>
-    <title>Regles</title>
+    <title>Tit</title>
     
     <!-- Meta -->
     <meta charset="utf-8">
@@ -24,22 +24,35 @@
 
 <body>    
     <header class="header">	    
-        <div></div>
-    </header>
+        <div class="branding">A1
+
+        </div><!--//branding-->
+    </header><!--//header-->
     
-    <section id="section_1">
-<h1>
-	Regles
-</h1>
+    <section class="hero-section">
+s1
+    </section><!--//hero-section-->
+    
+    <section id="benefits-section" class="benefits-section theme-bg-light-gradient py-5">
+s2
+    </section><!--//benefits-section-->
+    
+  
+    
+    
 
+    <footer class="footer">
 
-	</section>
-    <section id="section_2" class=""></section>
-
-	<footer class="footer"></footer>
+	f1
+	    
+    </footer>
        
     <!-- Javascript -->          
-
+    <script src="assets/plugins/popper.min.js"></script>
+    <script src="assets/plugins/bootstrap/js/bootstrap.min.js"></script> 
+    <script src="assets/plugins/smoothscroll.min.js"></script> 
+    
+    <script src="assets/js/main.js"></script>
 
 </body>
 </html> 
